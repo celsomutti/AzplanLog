@@ -81,7 +81,7 @@
 
         <!-- ÍCONES TOPO -->
         <div align="center" class="social-icons-topo">
-          <a href="tel:21970277225"><div style="font-size:14pt;" class="col-sm-4"><i class="fa fa-phone"></i> (21) 97027-7225</div></a>
+          <a href="tel:21970277225"><div style="font-size:14pt;" class="col-sm-4"><i class="fa fa-phone"></i> (21) 97027-7225 WhatsApp</div></a>
 
           <a href="mailto:azplan@azplanlog.com"><div style="font-size:14pt;" class="col-sm-4"><i class="fa fa-envelope"></i> azplan@azplanlog.com</div></a>
           
