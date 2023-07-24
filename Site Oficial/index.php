@@ -364,9 +364,9 @@
             <div class="item">
               <img class="quadroCliente" src="images/clientes/privalia.webp" alt="privalia">
             </div>
-            <div class="item">
+            <!--<div class="item">
               <img class="quadroCliente" src="images/clientes/amaro.webp" alt="Amaro">
-            </div>
+            </div>-->
             <div class="item">
               <img class="quadroCliente" src="images/clientes/yeesco.webp" alt="yeesco">
             </div>
