@@ -131,7 +131,7 @@
 
                 <div style="width:10px" class="col-sm-1"></div>
 
-                <a class="btn-servicos col-sm-3 col-xs-12" id="scroll-serv" target="_blank" href="https://rastrearmeupedido.com.br/rastreamentoCpfCnpj.html?ce=" ><i class="fa fa-map-marker"></i> RASTREIO</a>
+                <a class="btn-servicos col-sm-3 col-xs-12" id="scroll-serv" target="_blank" href="https://rastrearmeupedido.com.br/rastreamentoCpfCnpj.html?ce=391,27" ><i class="fa fa-map-marker"></i> RASTREIO</a>
 
               </div>
 
