@@ -81,7 +81,7 @@
 
         <!-- ÍCONES TOPO -->
         <div align="center" class="social-icons-topo">
-          <a href="tel:21970277225"><div style="font-size:14pt;" class="col-sm-4"><i class="fa fa-phone"></i> (21) 97027-7225 WhatsApp</div></a>
+          <a href="tel:21970277225"><div style="font-size:14pt;" class="col-sm-4"><i class="fa fa-phone"></i> (21) 97027-7225 (Somente WhatsApp)</div></a>
 
           <a href="mailto:azplan@azplanlog.com"><div style="font-size:14pt;" class="col-sm-4"><i class="fa fa-envelope"></i> azplan@azplanlog.com</div></a>
           
@@ -364,14 +364,20 @@
             <div class="item">
               <img class="quadroCliente" src="images/clientes/privalia.webp" alt="privalia">
             </div>
-            <!--<div class="item">
+            <div class="item">
               <img class="quadroCliente" src="images/clientes/amaro.webp" alt="Amaro">
-            </div>-->
+            </div>
             <div class="item">
               <img class="quadroCliente" src="images/clientes/yeesco.webp" alt="yeesco">
             </div>
             <div class="item">
               <img class="quadroCliente" src="images/clientes/rovitex.webp" alt="rovitex">
+            </div>
+            <div class="item">
+              <img class="quadroCliente" src="images/clientes/maconequi.webp" alt="maconequi">
+            </div>
+            <div class="item">
+              <img class="quadroCliente" src="images/clientes/b4a.webp" alt="b4a">
             </div>
           </div>
         </div>
